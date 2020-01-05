@@ -10,7 +10,6 @@ I copied the website of The Ledbury for practice. Here I have demonstrated a cou
 * How to make Navigation list.
 * Linking google fonts.
 * CSS Normalization.
-* CSS Nesting.
 * How use of div is better than use of body for main section.
 
 
