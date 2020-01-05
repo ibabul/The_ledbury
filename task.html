@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>The Ledbury</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/normalize.css">
     <link rel="stylesheet" href="./css/task.css">
 </head>
@@ -21,9 +22,26 @@
             <div class="nav-links">
                 <ul>
                     <li> <a href='#'> Home </a></li>
-                    <li> <a href='#'> Food </a></li>
+                    <!--Start of Dropdown menu-->
+                    <div class="dropdown">
+                        <li> <a href='#'> Food </a></li>
+                        <div class="dropdown-content">
+                            <a href="#" class="dropdown-link">Tasting menu</a>
+                            <a href="#" class="dropdown-link">Lunch</a>
+                            <a href="#" class="dropdown-link">Set lunch</a>
+                            <a href="#" class="dropdown-link"> Vegitarian tasting lunch</a>
+                            <a href="#" class="dropdown-link">Dinner</a>
+                        </div>
+                    </div>
+                    <!--End of dropdown here-->
                     <li> <a href='#'> Wine </a></li>
-                    <li> <a href='#'> Gallery </a></li>
+                    <div class="dropdown">
+                        <li> <a href='#'> Gallery </a></li>
+                        <div class="dropdown-content">
+                            <a href="#" class="dropdown-link">Restaurant Gallery</a>
+                            <a href="#" class="dropdown-link">Food Gallery</a>
+                        </div>
+                    </div>
                     <li> <a href='#'> The chef </a></li>
                     <li> <a href='#'> Reservation </a></li>
                     <li> <a href='#'> careers </a></li>
