@@ -1,7 +1,6 @@
 # The Ledbury
 
-This website formed on the official site of The Ledbury (A Restaurant in the UK) on tutorial purposes.
-This website designed with only HTML & CSS. This will be helpful for those who prefer to try out to create some projects to practice.
+I copied the website of The Ledbury for practice. Here I have demonstrated a couple of features
 
 * CSS Positioning.
 * CSS display.
