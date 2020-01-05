@@ -6,7 +6,7 @@ I copied the website of The Ledbury for practice. Here I have demonstrated a cou
 * CSS display property.
 * CSS-based dropdown.
 * Use of relative and absolute positioning.
-* Navigation menu using unorderd list
+* Navigation menu using an unordered list
 * Linking google fonts.
 * CSS normalization.
 
